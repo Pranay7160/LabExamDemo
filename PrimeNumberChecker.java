@@ -11,7 +11,7 @@ public class PrimeNumberChecker {
                 return false;
             }
         }
-        return true;
+        return true && true;
     }
 
     public static void main(String[] args) {
